@@ -42,3 +42,5 @@
 - Insomnia's Law
 - Bastard
 - Beware of the Villainess
+# # Instructions for running on prolog: copy the contents of the swish(4).pl file to swish.prolog https://swish.swi-prolog.org /
+# For clips: enter all functions in clips
