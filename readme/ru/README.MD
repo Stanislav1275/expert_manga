@@ -51,3 +51,5 @@
 - Ублюдок
 # Инструкция для запуска на prolog: скопировать содержимео файла swish(4).pl в swish.prolog https://swish.swi-prolog.org/
 # Для clips: ввести все функции в clips
+# опробовать программу на prolog - https://swish.swi-prolog.org/p/expert_manga.pl
+# Для теста ввести в queries - main
