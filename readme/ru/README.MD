@@ -49,3 +49,5 @@
   героя
 - Закон бессоницы
 - Ублюдок
+# Инструкция для запуска на prolog: скопировать содержимео файла swish(4).pl в swish.prolog https://swish.swi-prolog.org/
+# Для clips: ввести все функции в clips
