@@ -1,0 +1,8 @@
+(assert (Completed)
+(Ongoing)
+(Fantasy)
+(EverydayLife)
+(Horror)
+(Comedy)
+(FemaleCharacter)
+(MaleCharacter))
